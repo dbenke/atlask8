@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Músculo, Sangue e Nervos </string>
+
+    <string name="action_settings">Sobre</string>
+
+    <string name="laminas_action_settings">Saiba mais</string>
+    <string name="lamina_name">Língua</string>
+
+
+
+    <string name="lingua_texto"> Corte transversal de uma peça histológica de tecido muscular estriado da língua.\n\n
+        O Tecido muscular estriado é composto de células alongadas, cilíndricas e multinucleadas. Nesta lâmina é possível identificar cortes transversais e longitudinais do tecido muscular.\n\n
+        \n\n
+        </string>
+
+    <string name="miocardio_texto"> Neste corte histológico do coração, preparado com tricômico de Gomori, os cardiomiócitos aparecem em corte longitudinal, constituindo a maior parte do miocárdio. Apresentam um a dois núcleos grandes e ovais, localizados preferencialmente na região central. Os cardiomiócitos adjacentes se mantêm unidos entre si por junções de adesão denominadas discos intercalares.\n\n
+
+        </string>
+    <string name="sangue_texto"> nesta lâmina de esfregaço sanguíneo é possível identificar leucócitos (neutrófilos, eosinófilos, basófilos, monócitos e linfócitos).\n\n
+Eritrócitos: ou hemácias (glóbulos vermelhos). Formato biconcavo, contém hemoglobina.\n\n
+Plaquetas: ou trombócitos. Fragmentos de citoplasma derivados de Megacariócitos da medula óssea.\n\n
+Neutrófilos: possuem núcleo multilobulado. Envolvidos na defesa contra infecções bacterianas e outros pequenos processos inflamatórios.\n\n
+Eosinófilos: estão envolvidos nas infecções parasitárias e processos alérgicos. Têm um núcleo celular bilobulado.\n\n
+Basófiloa: Possuem forma esférica e núcleo geralmente segmentado ou bilobulado. Citoplasma é levemente basofílico (cor azul) e quase sempre oculto pelos grânulos corados em roxo. Liberam mediadores químicos como a histamina e heparina.\n\n
+Linfócitos: Os linfócitos têm um papel importante na defesa do corpo. Possuem núcleo redondo e escasso citoplasma.\n\n
+Monócitos: Possuem citoplasma abundante (levemente basófilo), núcleo irregular com chanfraduras. Desenvolvem-se a partir da medula óssea, amadurecem na corrente sanguínea e finalmente deslocam-se para os tecidos onde são denominados macrófagos.\n\n
+        </string>
+
+
+    <string name="medula_texto"> Na medula espinhal residem todos os neurónios motores que enervam os músculos e também os neurônios eferentes autónomos.\n\n
+        Também fazem parte do sistema nervoso central outras células não neuronais, chamadas de neuróglias. As células da glia, como também são chamadas, são células que proporcionam suporte e nutrição aos neurônios. Geralmente são arredondadas.\n\n
+
+        </string>
+
+
+
+
+    <string name="nervo_texto"> Os nervos periféricos são formados a partir de feixes de fibras nervosas (prolongamento dos axônios aferentes e eferentes do sistema nervoso).\n\n
+        Os tecidos conjuntivos que envolvem e protegem os nervos são classificados em três grupos:\n\n
+        Endoneuro: envolve cada fibra nervosa.\n\n
+        Perineuro: envolve um feixe de fibras nervosas.\n\n
+        Epineuro: cápsula que envolve todos os feixes que formam o nervo.\n\n
+
+        </string>
+
+    <string name="ganglio_texto"> Gânglio nervoso é o aglomerado de corpos celulares de neurônios encontrado fora do sistema nervoso central.\n\n
+        Os neurônios do gânglio nervoso estão circundados pelas células satélites, células pequenas, achatadas, com núcleo escuro e heterocromático. Elas mantêm um microambiente controlado em torno do neurônio permitindo isolamento elétrico e uma via para trocas metabólicas.\n\n
+
+        </string>
+
+    <string name="glia_texto"> As células da glia, ou neuróglia, são células não neuronais do sistema nervoso central que proporcionam suporte e nutrição aos neurônios.\n\n
+        No cérebro humano as células da glia são, aproximadamente, 10 vezes mais frequentes que os neurônios.\n\n
+        No SNC, essas células são os astrócitos, os oligodendrócitos, as células da micróglia e as células ependimárias. No SNP, são as células-satélites e as células de Schwann.\n\n
+        Astrócitos: Possuem o formato de estrela e são as maiores e mais numerosas células da glia do SNC. Seu núcleo é grande, ovoide, cromatina frouxa e nucléolo central.\n\n
+        Os astrócitos fibrosos estão localizados na substância branca e exibem menos prolongamentos, os quais são mais longos.\n\n
+        Os astrócitos protoplasmáticos estão localizados na substância cinzenta e apresentam muitos prolongamentos, mas curtos e espessos.\n\n
+        Oligodendrócitos: Localizados na substância cinzenta e na substância branca do SNC. São menores do que os astrócitos e com poucos prolongamentos. São responsáveis pela produção de mielina no SNC.\n\n
+        Micróglia: Em impregnação argêntica apresenta pouco prolongamentos a partir das extremidades da célula que se ramificam dicotomicamente. Sua função é reagir a lesões do tecido nervoso fagocitando restos celulares.\n\n
+        </string>
+
+
+</resources>
